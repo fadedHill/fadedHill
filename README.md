@@ -25,8 +25,8 @@ Welcome to my GitHub portfolio! With over 17 years of experience in the telecomm
 
 ## Hack The Box Achievement 🎉
 - **Machine Completion:** Successfully completed the "Machine" challenge on Hack The Box.
-  - [View Achievement](https://www.hackthebox.com/achievement/machine/1833240/577)
-
+  - [View Achievement - Devvortex(easy)](https://www.hackthebox.com/achievement/machine/1833240/577)
+  - [View Achievement - Keeper(easy)](https://www.hackthebox.com/achievement/machine/1833240/556)
 
 ## Projects
 - **Telecom Solutions:** Developed and implemented custom solutions using Asterisk and OpenSIPS to enhance telecommunication services.
